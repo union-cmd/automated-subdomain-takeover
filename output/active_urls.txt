@@ -1,2 +1,6 @@
 https://huoxian.cn
+https://myiast.huoxian.cn
+https://mylabs.iast.huoxian.cn
+https://myopenapi.iast.huoxian.cn
+https://mytest.huoxian.cn
 https://www.huoxian.cn
